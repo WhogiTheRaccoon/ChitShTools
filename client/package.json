@@ -18,7 +18,7 @@
     "@fortawesome/vue-fontawesome": "^3.0.6",
     "@tailwindcss/forms": "^0.5.7",
     "@tailwindcss/line-clamp": "^0.4.4",
-    "axios": "^1.6.8",
+    "axios": "^1.7.4",
     "diff": "^5.2.0",
     "lodash": "^4.17.21",
     "markdown-it": "^14.1.0",
