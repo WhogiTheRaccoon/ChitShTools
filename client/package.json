@@ -20,7 +20,7 @@
     "@tailwindcss/line-clamp": "^0.4.4",
     "axios": "^1.7.4",
     "diff": "^5.2.0",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "markdown-it": "^14.1.0",
     "notivue": "^2.4.5",
     "socket.io-client": "^4.7.5",
