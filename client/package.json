@@ -21,7 +21,7 @@
     "axios": "^1.7.4",
     "diff": "^5.2.0",
     "lodash": "^4.17.21",
-    "markdown-it": "^14.1.0",
+    "markdown-it": "^14.1.1",
     "notivue": "^2.4.5",
     "socket.io-client": "^4.7.5",
     "unimport": "^3.12.0",
